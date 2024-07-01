@@ -1,1 +1,2 @@
-# web_ecormerce_php
+<!-- ACC Admin -->
+Email=admin@gmail.com and Password=123456789.

@@ -1,0 +1,63 @@
+<style>
+    .content-term img {
+    max-width: 100%;
+    height: auto !important;
+    display: block;
+}
+.content-term {
+    color: #424141;
+    line-height: 25px;
+    font-size: 16px;
+    text-align: justify;
+}
+
+</style>
+<?php
+    include "header.php";
+    echo '
+    <div class="main main-raised">
+        <div class="container mainn-raised" style="width:100%;"> 
+<div class="containerl left100"><br>
+            <h1>BENTLEY</h1>
+            <div class="content-term left100 active">
+                <blockquote id="dong-ho-bentley" cite="https://topwatch.vn/dong-ho-bentley?dong-ho-bentley"><p><span style="color: #000000;"><strong><a style="color: #000000;" href="https://topwatch.vn/dong-ho-bentley"><span style="color: #0000ff;">Đồng hồ Bentley</span></a></strong> chính hãng cao cấp đẹp cho cả Nam và Nữ có nhiều thiết kế cho bạn lựa chọn. Tại Topwatch bạn sẽ sở hữu mẫu Bentley với giá tốt nhất – <span style="color: #ff0000;"><strong>Giảm giá lên tới 20%</strong></span>.</span></p></blockquote>
+<h2><span style="color: #0000ff;"><strong>Sơ lược về thương hiệu Bentley Watch</strong></span></h2>
+<p><span style="color: #000000;">Thương hiệu đồng hồ Bentley thuộc tập đoàn <em>Bentley Luxury Group</em> nổi tiếng được thành lập năm 1948 tại Thụy Sỹ. Tuy nhiên, những mẫu đồng hồ thuộc thương hiệu này lại được ghi dòng chữ “Made in Germany” vì được gia công và thiết kế tại Đức – một đất nước có nền công nghiệp phát triển.</span></p>
+<div id="attachment_25687" style="width: 410px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-25687" loading="lazy" class="wp-image-25687 size-full" src="https://topwatch.vn/media/2020/08/logo-dong-ho-bentley.png" alt="Logo thương hiệu Bentley Watch" width="400" height="400" srcset="https://topwatch.vn/media/2020/08/logo-dong-ho-bentley.png 400w, https://topwatch.vn/media/2020/08/logo-dong-ho-bentley-150x150.png 150w, https://topwatch.vn/media/2020/08/logo-dong-ho-bentley-300x300.png 300w, https://topwatch.vn/media/2020/08/logo-dong-ho-bentley-100x100.png 100w" sizes="(max-width: 400px) 100vw, 400px"><p id="caption-attachment-25687" class="wp-caption-text"><span style="color: #000000;">Logo thương hiệu Bentley Watch</span></p></div>
+<p><span style="color: #000000;">Những mẫu đồng hồ Bentley 1948 có độ hoàn thiện tốt về thiết kế và bộ máy của đồng hồ. Bộ máy hoạt động với độ chính xác cao và có chất lượng tốt hơn so với những mẫu đồng hồ cùng phân khúc giá.</span></p>
+<p><span style="color: #000000;">Hãng đã cho ra đời hơn chục mẫu đồng hồ có thiết kế độc đáo và mỗi đồng hồ lại có phong cách riêng để phục vụ nhiều người chơi đồng hồ. Chính vì vậy, mà những mẫu đồng hồ này được rất nhiều người yêu thời trang lựa chọn. Sau đây là một số dòng đồng hồ nổi tiếng của Bentley:</span></p>
+<p><span style="color: #000000;"><em>Dòng đồng hồ Vintage Skeleton</em>: Nghe tên dòng sản phẩm này ta cũng biết rằng đây là dòng sản phẩm của Bentley chuyên về những thiết kế lộ cơ.</span></p>
+<div id="attachment_25688" style="width: 510px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-25688" loading="lazy" class="wp-image-25688 size-full" src="https://topwatch.vn/media/2020/08/dong-ho-Bentley.png" alt="Dòng đồng hồ Vintage Skeleton" width="500" height="750" srcset="https://topwatch.vn/media/2020/08/dong-ho-Bentley.png 500w, https://topwatch.vn/media/2020/08/dong-ho-Bentley-200x300.png 200w" sizes="(max-width: 500px) 100vw, 500px"><p id="caption-attachment-25688" class="wp-caption-text"><span style="color: #000000;">Dòng đồng hồ Vintage Skeleton</span></p></div>
+<p><span style="color: #000000;"><em>Dòng đồng hồ Astral</em>: Đây là dòng sản phẩm đồng hồ Bentley nữ dành cho các quý cô với những chi tiết bông hoa hình xoáy ở trên bề mặt số.</span></p>
+<div id="attachment_25689" style="width: 510px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-25689" loading="lazy" class="wp-image-25689 size-full" src="https://topwatch.vn/media/2020/08/dong-ho-Bentley-1.png" alt="Dòng đồng hồ Astral" width="500" height="750" srcset="https://topwatch.vn/media/2020/08/dong-ho-Bentley-1.png 500w, https://topwatch.vn/media/2020/08/dong-ho-Bentley-1-200x300.png 200w" sizes="(max-width: 500px) 100vw, 500px"><p id="caption-attachment-25689" class="wp-caption-text"><span style="color: #000000;">Dòng đồng hồ Astral</span></p></div>
+<p><span style="color: #000000;"><em>Dòng đồng hồ Muse</em>: Là dòng sản phẩm đồng hồ Bentley Diamond rất được yêu thích và chào đón bởi những chị em phụ nữ.</span></p>
+<div id="attachment_25690" style="width: 510px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-25690" loading="lazy" class="wp-image-25690 size-full" src="https://topwatch.vn/media/2020/08/dong-ho-Bentley-2.png" alt="Dòng đồng hồ Muse" width="500" height="750" srcset="https://topwatch.vn/media/2020/08/dong-ho-Bentley-2.png 500w, https://topwatch.vn/media/2020/08/dong-ho-Bentley-2-200x300.png 200w" sizes="(max-width: 500px) 100vw, 500px"><p id="caption-attachment-25690" class="wp-caption-text"><span style="color: #000000;">Dòng đồng hồ Muse</span></p></div>
+<p><span style="color: #000000;"><em>Dòng đồng hồ Classic</em>: Là một dòng đồng hồ nam Bentley có thiết kế cổ điển và đơn giản nhưng đem đến sự sang trọng và đẳng cấp cho người đeo.</span></p>
+<div id="attachment_25691" style="width: 510px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-25691" loading="lazy" class="wp-image-25691 size-full" src="https://topwatch.vn/media/2020/08/dong-ho-Bentley-3.png" alt="Dòng đồng hồ Classic" width="500" height="750" srcset="https://topwatch.vn/media/2020/08/dong-ho-Bentley-3.png 500w, https://topwatch.vn/media/2020/08/dong-ho-Bentley-3-200x300.png 200w" sizes="(max-width: 500px) 100vw, 500px"><p id="caption-attachment-25691" class="wp-caption-text"><span style="color: #000000;">Dòng đồng hồ Classic</span></p></div>
+<p><span style="color: #000000;"><em>Dòng đồng hồ Power Move</em>: Đây là một dòng sản phẩm đồng hồ Bentley nam có thiết kế lộ cơ lịch lãm cho phái mạnh.</span></p>
+<div id="attachment_25692" style="width: 550px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-25692" loading="lazy" class="wp-image-25692 size-full" src="https://topwatch.vn/media/2020/08/dong-ho-bentley-4.jpg" alt="Dòng đồng hồ Power Move" width="540" height="540" srcset="https://topwatch.vn/media/2020/08/dong-ho-bentley-4.jpg 540w, https://topwatch.vn/media/2020/08/dong-ho-bentley-4-150x150.jpg 150w, https://topwatch.vn/media/2020/08/dong-ho-bentley-4-300x300.jpg 300w, https://topwatch.vn/media/2020/08/dong-ho-bentley-4-100x100.jpg 100w" sizes="(max-width: 540px) 100vw, 540px"><p id="caption-attachment-25692" class="wp-caption-text"><span style="color: #000000;">Dòng đồng hồ Power Move</span></p></div>
+<p><span style="color: #000000;"><em>Dòng đồng hồ Star Actress</em>: Dòng sản phẩm đồng hồ nữ Bentley có thiết kế mặt số đơn giản nhưng có những chi tiết kim cương vô cùng độc đáo.</span></p>
+<div id="attachment_25693" style="width: 910px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-25693" loading="lazy" class="wp-image-25693 size-full" src="https://topwatch.vn/media/2020/08/dong-ho-bentley-5.jpg" alt="Dòng đồng hồ Star Actress" width="900" height="900" srcset="https://topwatch.vn/media/2020/08/dong-ho-bentley-5.jpg 900w, https://topwatch.vn/media/2020/08/dong-ho-bentley-5-150x150.jpg 150w, https://topwatch.vn/media/2020/08/dong-ho-bentley-5-300x300.jpg 300w, https://topwatch.vn/media/2020/08/dong-ho-bentley-5-768x768.jpg 768w, https://topwatch.vn/media/2020/08/dong-ho-bentley-5-600x600.jpg 600w, https://topwatch.vn/media/2020/08/dong-ho-bentley-5-100x100.jpg 100w" sizes="(max-width: 900px) 100vw, 900px"><p id="caption-attachment-25693" class="wp-caption-text"><span style="color: #000000;">Dòng đồng hồ Star Actress</span></p></div>
+<h2><span style="color: #0000ff;"><strong>Lịch sử và cột mốc quan trọng của thương hiệu Bentley Watch</strong></span></h2>
+<p><span style="color: #000000;">Thương hiệu Bentley được thành lập từ những năm 1948 tại cái nôi của ngành đồng hồ – đất nước Thụy Sỹ – thị trấn La Chaux-de-Fonds.</span></p>
+<p><span style="color: #000000;">Đến đầu những năm 90s của thế kỷ XX, thương hiệu này phát triển thành tập đoàn Bentley Luxury và mở rộng lĩnh vực kinh doanh bao gồm cả những sản phẩm thời trang và phong cách sống. Nhưng nhóm ngành tập trung nghiên cứu và phát triển nhất vẫn là đồng hồ đeo tay.</span></p>
+<div id="attachment_25694" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-25694" loading="lazy" class="wp-image-25694 size-large" src="https://topwatch.vn/media/2020/08/lich-su-dong-ho-bentley-1024x484.jpg" alt="Thị trấn La Chaux-de-Fonds - Nơi " width="1024" height="484" srcset="https://topwatch.vn/media/2020/08/lich-su-dong-ho-bentley.jpg 1024w, https://topwatch.vn/media/2020/08/lich-su-dong-ho-bentley-300x142.jpg 300w, https://topwatch.vn/media/2020/08/lich-su-dong-ho-bentley-768x363.jpg 768w, https://topwatch.vn/media/2020/08/lich-su-dong-ho-bentley-600x284.jpg 600w" sizes="(max-width: 1024px) 100vw, 1024px"><p id="caption-attachment-25694" class="wp-caption-text"><span style="color: #000000;">Thị trấn La Chaux-de-Fonds – Nơi “khai sinh” Bentley</span></p></div>
+<p><span style="color: #000000;">Những thiết kế của thương hiệu Bentley đồng hồ được giới mộ điệu nhận xét mang đạm tính đương đại, thủ công nhưng cũng vô cùng hiện đại, và hướn tới sự phá cách, đổi mới.</span></p>
+<p><span style="color: #000000;">Dù là sản xuất nhóm ngành chủ đạo đồng hồ đeo tay hay những nhóm ngành khác, thương hiệu Bentley luôn luôn thực hiện theo phương châm “BE IN CONTROL”.</span></p>
+<h2><span style="color: #0000ff;"><strong>Các bộ sưu tập của thương hiệu Bentley đang được phân phối hiện nay</strong></span></h2>
+<p><span style="color: #000000;">Aqua Master, Aquamarine, Astral, Aurora, Aviator, Bourbon, Boutique Exclusive, City Chic, Classic, Classic Timeless, Dancing Light, Dandy Move, Denarium, Elite, Enchanting ERA, Ethereal Charm, Excellence, Forever Love, Gentle Glamor, Industrial Classic, Jazz Heartbeat.</span></p>
+<p><span style="color: #000000;">Lady Bentley, Louvetier, Manhattan, Memories, Musem, Power Move, Racing, Radiant Move, Road Captain, Road series, Sea Captain, Simply Chic, Simply Elegant, Skyline, Solstice, Star Actress, Veneur, Vintage Skeletion, Walk Of Fame.</span></p>
+<h2><span style="color: #0000ff;"><strong>Đánh giá đồng hồ Bentley – Có nên mua hay không?</strong></span></h2>
+<p><span style="color: #000000;"><strong>Về thiết kế</strong>: Đây có lẽ là điểm mạnh dễ dàng thấy nhất của thương hiệu đồng hồ này. Với bộ sưu tập “khủng” thì chắc chắn khách hàng dù khó tính nhất cũng có thể lựa chọn được mẫu đồng hồ phù hợp với bản thân.</span></p>
+<p><span style="color: #000000;"><strong>Về chất liệu</strong>: Kế tiếp đây cũng là một ưu điểm của thương hiệu này. 100% tất cả sản phẩm đều được sản xuất với thép không gỉ 316L – đạt tiêu chuẩn quốc tế và mặt kính Sapphire có độ chống trầy, chống xước cực tốt.</span></p>
+<div id="attachment_25695" style="width: 910px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-25695" loading="lazy" class="wp-image-25695 size-full" src="https://topwatch.vn/media/2020/08/dong-ho-bentley.jpg" alt="Đồng hồ Bentley chính hãng được từ chất liệu cao cấp" width="900" height="468" srcset="https://topwatch.vn/media/2020/08/dong-ho-bentley.jpg 900w, https://topwatch.vn/media/2020/08/dong-ho-bentley-300x156.jpg 300w, https://topwatch.vn/media/2020/08/dong-ho-bentley-768x399.jpg 768w, https://topwatch.vn/media/2020/08/dong-ho-bentley-600x312.jpg 600w" sizes="(max-width: 900px) 100vw, 900px"><p id="caption-attachment-25695" class="wp-caption-text"><span style="color: #000000;">Đồng hồ Bentley chính hãng được từ chất liệu cao cấp</span></p></div>
+<p><span style="color: #000000;"><strong>Vệ bộ máy</strong>: Đây cũng là điểm đáng khen dành cho thương hiệu này, vì sử dụng bộ máy đến từ Nhật Bản, có độ hoàn thiện và hoạt động ổn định, chính xác cao. Hiện nay, các mẫu Bentley sử dụng chủ yêu máy Miyota của Citizen, đa phần là Miyota 8215, Cal.GM10, Cal.82S7, 1L45, một số thì dùng bộ máy NH35, NH37 của Seiko.</span></p>
+<p><span style="color: #000000;"><strong>Về mức giá đồng hồ Bentley 1948</strong>: Được đánh giá là một thương hiệu bình dân, có khoảng giá rộng và phù hợp với túi tiền của hầu hết khách hàng. Khách hàng có thể dễ dàng tìm thấy những mẫu đồng hồ Bentley giá rẻ, có thiết kế cực kỳ thời thượng, và chất lượng không thể chê.</span></p>
+            </div>
+            
+        </div>
+        </div>
+        </div>
+        ';
+        include "footer.php";
+?>
